@@ -1,0 +1,6 @@
+{
+  "name": "GMJ StudyHub — Jadwal, Tugas & Rangkuman Informatika",
+  "description": "Aplikasi jadwal pelajaran SMP Global Mandiri Jakarta yang terintegrasi dengan pengingat tugas sekolah, rangkuman materi Informatika, dan pelacakan progres pemahaman berkala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
